@@ -273,7 +273,7 @@ body{
   position: absolute;
   height: 18px;
   width: 30px;
-  right: 220px;
+  right: 0;
 }
 
 .nav2__burger__btn:hover{
